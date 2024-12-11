@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.4.2",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "index.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.5.57",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "_quarto.yml": {
+      "checksum": "94c1e17871eac34fae7d89e76c55492d"
+    },
+    "_site/about.html": {
+      "checksum": "030227da4a36a30560f8eba0d548e17d"
+    },
+    "_site/custom.scss": {
+      "checksum": "0d43293b2b5e8087a9f9ba94be3de6ec"
+    },
+    "_site/index.html": {
+      "checksum": "09d16bf3eb07354a3d3cd6e9690b223d"
+    },
+    "_site/listings.json": {
+      "checksum": "b7bf3bf00f6b78247a2b05d39a0df995"
+    },
+    "_site/post/2024-11-30/index.html": {
+      "checksum": "cdabfb9150f9744cb3346a30ae66c8d8"
+    },
+    "_site/post/2024-11-30/Untitled.html": {
+      "checksum": "31cc9a1421351303d779428aa66c3a03"
+    },
+    "_site/post/2024-11-30/Zwift.mov": {
+      "checksum": "41ba25099d327850a6d4cbeac4c1ac6b"
+    },
+    "_site/post/2024-12-08/index.html": {
+      "checksum": "603434c8667422d9458284a07c335e48"
+    },
+    "_site/post/2024-12-10/index.html": {
+      "checksum": "bf020ef47fd460a351978e6657e72551"
+    },
+    "_site/search.json": {
+      "checksum": "0695a4218af102551f3f4b8b3fecec26"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "2318f137d201fbf51601fa0faba6bef7"
+    },
+    "_site/site_libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "1a51dfbe5467607389d603c02a77cd10"
+    },
+    "_site/site_libs/bootstrap/bootstrap.min.css": {
+      "checksum": "e058e08d800d0a888d6c97497c56d52d"
+    },
+    "_site/site_libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "_site/site_libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "_site/site_libs/quarto-contrib/videojs/video-js.css": {
+      "checksum": "92c4f5bba6e24134f07a508819300d2e"
+    },
+    "_site/site_libs/quarto-contrib/videojs/video.min.js": {
+      "checksum": "c038d4c38eb6160ddb328b8944a5422b"
+    },
+    "_site/site_libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "_site/site_libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "_site/site_libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "ab2b9e94a89b131e869fd951d6355545"
+    },
+    "_site/site_libs/quarto-html/quarto.js": {
+      "checksum": "7563d37e31580c9573af5b12aa3779a2"
+    },
+    "_site/site_libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "_site/site_libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "_site/site_libs/quarto-listing/list.min.js": {
+      "checksum": "df008d556d30a58784f086e4b3eec307"
+    },
+    "_site/site_libs/quarto-listing/quarto-listing.js": {
+      "checksum": "77cf2d966f525295f151063bfdc627a7"
+    },
+    "_site/site_libs/quarto-nav/headroom.min.js": {
+      "checksum": "ace0360e576db9b6e7df48ac68ddbbf4"
+    },
+    "_site/site_libs/quarto-nav/quarto-nav.js": {
+      "checksum": "12d334846b27bdb493298c08277bdf7f"
+    },
+    "_site/site_libs/quarto-search/autocomplete.umd.js": {
+      "checksum": "c64544db941e048f2652217cb9a7f29c"
+    },
+    "_site/site_libs/quarto-search/fuse.min.js": {
+      "checksum": "de7d60e4a6881074275feca14b84a49d"
+    },
+    "_site/site_libs/quarto-search/quarto-search.js": {
+      "checksum": "bb16b7e73be13eba97c99d25b2a476b3"
+    },
+    "_site/styles.css": {
+      "checksum": "e31c3cdea03dfab8a29456978017bd10"
+    },
+    "about.qmd": {
+      "checksum": "956075672d2c3f7b0798cca846f2fa03"
+    },
+    "custom.scss": {
+      "checksum": "0d43293b2b5e8087a9f9ba94be3de6ec"
+    },
+    "index.qmd": {
+      "checksum": "03f0a282636fa4cedba9d0f77df96cfb"
+    },
+    "post/2024-11-30/index.qmd": {
+      "checksum": "ac71d4b14f82b863279f64db689723de"
+    },
+    "post/2024-11-30/Zwift.mov": {
+      "checksum": "41ba25099d327850a6d4cbeac4c1ac6b"
+    },
+    "post/2024-12-08/index.qmd": {
+      "checksum": "6cfab2e0a4230fbf0be3dfaa813263bd"
+    },
+    "post/2024-12-10/index.qmd": {
+      "checksum": "1481e12494885127aa31e1adcb64ba7e"
+    },
+    "styles.css": {
+      "checksum": "e31c3cdea03dfab8a29456978017bd10"
+    }
+  },
+  "users": null
+}

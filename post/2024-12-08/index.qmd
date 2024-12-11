@@ -1,0 +1,15 @@
+---
+title: "Quote of the day"
+date: 2024-12-08
+categories: [Qoutes]
+---
+
+### The great Eddy Merckx once said...
+
+Ride as much or as little, or as long or as short as you feel. But ride.
+
+-   Eddy Merckx
+
+Ride On!!
+
+[Go back to the Home page](../../index.qmd).
