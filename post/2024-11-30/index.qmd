@@ -6,6 +6,6 @@ categories: [Virtual Cycling]
 
 Green jersey in Zwift!
 
-{{< video https://youtu.be/6U9aK5HVz4g >}}
+{{< video Zwift.mov >}}
 
 [Go back to the Home page](../../index.qmd)
